@@ -18,6 +18,8 @@ public class Main2 {
         arr.remove(1);
         System.out.println(arr);
 
+        System.out.println("跟新第二处");
+
 
     }
 }

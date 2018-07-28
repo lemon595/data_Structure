@@ -9,5 +9,10 @@ public class Test {
 
         System.out.printf(" %d\n %d\n %d\n ",i,++i,--i);
 
+        int new_a=132;
+        System.out.println(new_a);
+
+        System.out.println("木头人");
+
     }
 }

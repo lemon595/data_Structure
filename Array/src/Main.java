@@ -33,6 +33,8 @@ public class Main {
         arr.removeElement(5);
         System.out.println(arr);
 
+        System.out.println("跟新第三处");
+
 
     }
 
