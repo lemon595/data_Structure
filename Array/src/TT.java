@@ -10,6 +10,8 @@ public class TT {
         System.out.println("我是新添加的内容");
 
 
+        System.out.println("tt新增的内日哦那个");
+
         System.out.println("跟新跟新");
     }
 
